@@ -1,6 +1,7 @@
 ## Hello World! I'm Romão             <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30">
 
- [![romao666 GitHub stats](https://github-readme-stats.vercel.app/api?username=romao666)](https://github.com/romao666/github-readme-stats)
+ ![romao666 GitHub stats](https://github-readme-stats.vercel.app/api?username=romao666&theme=github_dark&show_icons=true)
+
 
 :computer: I'm Junior Developer!
 
