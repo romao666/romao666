@@ -9,7 +9,7 @@
 
 :books: I'm currently studying computer science and updating a little bit of everything.
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
+:outbox_tray: 2025 Goals: create a new project and find a new job.
 
  
 
